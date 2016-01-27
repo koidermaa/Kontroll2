@@ -1,0 +1,9 @@
+pwd – vaatab kus ollakse
+cd /c/kaust/kaust  - jne
+git init
+git add - - all
+git commit –m “mida öelda”
+git push --set-upstream     https://github.com/koidermaa/Kontroll2.gitexit   (tuleb panna vaid esimene kord)
+git remote add origin     //remote repository URL
+git remote –v   // näitab juba repository
+git push origin master
